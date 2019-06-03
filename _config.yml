@@ -1,5 +1,6 @@
 layout: sidebar
-style: light
+style: dark
+theme: null
 
 plugins:
   - jekyll-octicons
@@ -17,7 +18,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -28,31 +29,33 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: huseyinn.deniz
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: hsyndeniz
   # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+  medium: huseyindeniz
+  stackoverflow: 11413042
+  telegram: huseyindeniz
+  twitter: hsyn__deniz
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: http://huseyindeniz.me
+  youtube: channel/UCnP1nljIl7KwDJK9KMPsAvQ
 
 topics:
-  - name: CSS
+  - name: Web Development
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Blockchain & Cryptocurrency
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-  - name: Sass
+  - name: Mobile Development
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png

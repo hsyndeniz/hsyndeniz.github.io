@@ -1,6 +1,8 @@
 ---
 title: "Welcome to Jekyll!"
-published: false
+published: true
+categories: [blockchain, cryptocurrency]
+tags: [blockchain, bitcoin, ethereum]
 ---
 
 **Hello world**, this is my first Jekyll blog post.
