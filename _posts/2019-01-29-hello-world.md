@@ -1,6 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Introduction to Bitcoin!"
 published: true
+thumbnail: "./images/bitcoin.png"
 categories: [blockchain, cryptocurrency]
 tags: [blockchain, bitcoin, ethereum]
 ---

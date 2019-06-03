@@ -49,13 +49,13 @@ social_media:
 
 topics:
   - name: Web Development
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    web_url: https://github.com/topics/web
+    image_url: ./images/web2.png
 
   - name: Blockchain & Cryptocurrency
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: https://github.com/topics/blockchain
+    image_url: ./images/btc.png
 
   - name: Mobile Development
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: https://github.com/topics/react-native
+    image_url: ./images/mobile.png
