@@ -6,6 +6,18 @@
       </a>
     </h1>
   </div>
-  <a href="{{ post.url }}" ><img width="100%" src="{{ post.thumbnail }}" />
-  <div class="text-gray mb-2 ws-normal">{{ post.date | date: "%b %d, %Y"}}</div>
+  <a href="{{ post.url }}" ><img width="100%" src="{{ post.thumbnail }}"> </a>
+  <div>
+    {% for tag in post.tags %}
+      <div style="background-color: #ededed; float: left; border-radius: 5px; margin: 5px; padding: 5px;">
+        <span>#{{ tag }}</span>
+      </div>
+    {% endfor %}
+  </div>
+  <br/>
+  <div class="text-gray mb-2 ws-normal">
+    <span style="float: right; margin-top: 10px; margin-bottom: 10px;">
+      {{ post.date | date: "%b %d, %Y"}}
+    </span>
+  </div>
 </div>

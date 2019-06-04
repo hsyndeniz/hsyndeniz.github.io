@@ -3,7 +3,7 @@ title: "Introduction to Bitcoin!"
 published: true
 thumbnail: "./images/bitcoin.png"
 categories: [blockchain, cryptocurrency]
-tags: [blockchain, bitcoin, ethereum]
+tags: [blockchain, bitcoin]
 ---
 
 **Hello world**, this is my first Jekyll blog post.
